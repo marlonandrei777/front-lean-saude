@@ -8,7 +8,16 @@ const config: Config = {
   ],
   theme: {
     extend: {
-      "primary-purple": "#9747FF",
+      colors: {
+        "primary-purple": "#9747FF",
+
+        "gray-900": "#515151",
+        "gray-800": "#6A6A6A",
+
+        "green-100": "#46855B",
+
+        "error-100": "#E53E3E",
+      },
     },
   },
   plugins: [],
