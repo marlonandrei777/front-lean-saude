@@ -19,6 +19,9 @@ const config: Config = {
         "error-100": "#E53E3E",
       },
     },
+    fontFamily: {
+      roboto: ["Roboto", "sans-serif"],
+    },
   },
   plugins: [],
 };
