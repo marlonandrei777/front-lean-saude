@@ -16,6 +16,7 @@ Possuindo tela de login, listagem de usuários em uma tabela, campo de pesquisa 
 - React
 - TypeScript
 - tailwind
+- MUI
 - NextAuth.js
 
 ### Adicionais
