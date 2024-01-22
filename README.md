@@ -8,7 +8,7 @@
 
 Aplicação onde podemos gerenciar uma lista de usuários.<br>
 <br>
-Possuindo tela de login, listagem de usuários em uma tabela, campor de pesquisa de usuário por nome e por telefone, e mudança de status do usuário para Ativo ou Inativo.
+Possuindo tela de login, listagem de usuários em uma tabela, campo de pesquisa de usuário por nome e por telefone, e mudança de status do usuário para Ativo ou Inativo.
 
 ## 🔥 Tecnologias
 
@@ -54,4 +54,4 @@ $ npm run dev
 $ e-mail: marlon-master@hotmail.com
 $ senha: 123
 ```
-_A aplicação estará em execução em: localhost:5173_
+_A aplicação estará em execução em: localhost:3000_
